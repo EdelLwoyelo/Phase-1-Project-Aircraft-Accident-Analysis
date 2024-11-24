@@ -46,5 +46,6 @@ After cleaning  the dataset, I performed exploratory data analysis (EDA) to unde
 Up until 1980, the number of accidents remained stable, showing little to no change. 
 This could suggest that either accidents were not being recorded or that there were fewer airlines in operation during that time. 
 An unusual event happened in 1980 which caused a spike but the accident rates started improving significantly
-![image](https://github.com/user-attachments/assets/4127fd29-1054-4ca5-b685-f9c2337132ea)
+![image](https://github.com/user-attachments/assets/6bf6bb2d-2012-49d5-b9a1-41b23e79f8b9)
+
 
