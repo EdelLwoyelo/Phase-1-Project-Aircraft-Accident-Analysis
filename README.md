@@ -40,4 +40,11 @@ aircraft is viable, durable and cost efficient. Safety of the aircraft alone mig
 ## Data Understanding
 The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters.
 
+## Exploratory Data Analysis (EDA)
+After cleaning  the dataset, I performed exploratory data analysis (EDA) to understand the data better and extract actionable insights. Below is a summary of the EDA process:
+
+Up until 1980, the number of accidents remained stable, showing little to no change. 
+This could suggest that either accidents were not being recorded or that there were fewer airlines in operation during that time. 
+An unusual event happened in 1980 which caused a spike but the accident rates started improving significantly
+![image](https://github.com/user-attachments/assets/4127fd29-1054-4ca5-b685-f9c2337132ea)
 
