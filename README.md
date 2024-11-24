@@ -1,5 +1,5 @@
 
-PHASE ONE PROJECT_AIRCRAFT ACCIDENT ANALYSIS
+# PHASE ONE PROJECT_AIRCRAFT ACCIDENT ANALYSIS
 
 
 ## Business Understanding/Overview
@@ -36,3 +36,8 @@ identify the one with the lowest risk
 that would be made
 • We only have Accidents data and that may not be conclusive in determining whether an
 aircraft is viable, durable and cost efficient. Safety of the aircraft alone might not be sufficient
+
+## Data Understanding
+The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters.
+
+
